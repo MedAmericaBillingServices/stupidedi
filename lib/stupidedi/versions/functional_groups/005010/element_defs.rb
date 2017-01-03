@@ -1696,7 +1696,7 @@ module Stupidedi
               "N" => "Reserves",
               "O" => "U.S. Public Health Service"
             ))
-          E1596 = t::ID.new(:E1596, "Military Service Rank Code"           , 1, 2
+          E1596 = t::ID.new(:E1596, "Military Service Rank Code"           , 1, 2,
             s::CodeList.build(
               "A1" => "Admiral",
               "A2" => "Airman",
