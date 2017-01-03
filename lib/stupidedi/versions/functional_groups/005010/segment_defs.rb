@@ -162,6 +162,9 @@ module Stupidedi
 
           autoload :MEA,
             "stupidedi/versions/functional_groups/005010/segment_defs/MEA"
+          
+          autoload :MPI,
+            "stupidedi/versions/functional_groups/005010/segment_defs/MPI"
 
           autoload :MIA,
             "stupidedi/versions/functional_groups/005010/segment_defs/MIA"
